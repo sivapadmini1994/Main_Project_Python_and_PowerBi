@@ -27,6 +27,7 @@ This project analyzes hotel booking data to predict cancellations using Python f
   - 'Padmini_Main_Project.ipynb' - Full analysis & model code
   - 'hotel bookings cancellation prediction.pbix' - power BI dashboard
   - 'Cleaned_hotel_booking.csv'- processed data
+  - 'hotel_booking_mainproject.pdf'-completeproject report with data analysis, methodology, and results
 
 ## 📁 Files
 - `Padmini_Main_Project.ipynb` – Full analysis & model code
